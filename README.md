@@ -6,8 +6,6 @@
 
 ## Tecnologias
 
- * Visual Studio Code
- * Insomnia
  * Node JS
  
 ## Features
